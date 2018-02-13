@@ -1,0 +1,12 @@
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\DelftTools.Utils.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\DelftTools.Utils.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\log4net.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\LumenWorks.Framework.IO.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\NamedPipeChunkingBinding.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\NDepend.Helpers.FileDirectoryPath.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\PostSharp.Laos.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\bin\Debug\PostSharp.Public.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\obj\Debug\DelftTools.Utils.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DelftTools.Utils\obj\Debug\DelftTools.Utils.pdb

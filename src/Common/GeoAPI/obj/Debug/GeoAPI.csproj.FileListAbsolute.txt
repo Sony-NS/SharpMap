@@ -1,0 +1,5 @@
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\GeoAPI\bin\Debug\GeoAPI.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\GeoAPI\bin\Debug\GeoAPI.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\GeoAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\GeoAPI\obj\Debug\GeoAPI.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\GeoAPI\obj\Debug\GeoAPI.pdb

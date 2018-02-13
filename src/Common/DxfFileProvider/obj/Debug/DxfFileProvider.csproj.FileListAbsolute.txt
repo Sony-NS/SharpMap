@@ -1,0 +1,67 @@
+C:\Users\SONY NS\Downloads\SharpMap_Branch\DxfFileProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY NS\Downloads\SharpMap_Branch\DxfFileProvider\bin\Debug\DxfFileProvider.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\DxfFileProvider\bin\Debug\DxfFileProvider.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\DxfFileProvider\obj\Debug\DxfFileProvider.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\DxfFileProvider\obj\Debug\DxfFileProvider.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\DxfFileProvider.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DxfFileProvider.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DxfFileProvider.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Utils.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.Extensions.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\SharpMap.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PostSharp.Laos.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\log4net.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NamedPipeChunkingBinding.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PostSharp.Public.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NDepend.Helpers.FileDirectoryPath.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Functions.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\QuickGraph.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PowerCollections.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.Extensions.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\ValidationAspects.dll
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Utils.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.Extensions.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\SharpMap.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Functions.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.xml
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.Extensions.pdb
+C:\Users\SONY NS\Downloads\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\DxfFileProvider.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DxfFileProvider.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DxfFileProvider.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Utils.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.Extensions.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\SharpMap.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PostSharp.Laos.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\log4net.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NamedPipeChunkingBinding.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PostSharp.Public.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NDepend.Helpers.FileDirectoryPath.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Functions.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\QuickGraph.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\PowerCollections.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.Extensions.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\ValidationAspects.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Utils.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.Extensions.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\GeoAPI.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\SharpMap.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Functions.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\DelftTools.Units.xml
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\bin\Debug\NetTopologySuite.Extensions.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\DxfFileProvider.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\DxfFileProvider\obj\Debug\DxfFileProvider.pdb

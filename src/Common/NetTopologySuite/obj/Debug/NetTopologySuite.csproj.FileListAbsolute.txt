@@ -1,0 +1,8 @@
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\bin\Debug\NetTopologySuite.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\bin\Debug\NetTopologySuite.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\bin\Debug\GeoAPI.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\bin\Debug\PowerCollections.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\bin\Debug\GeoAPI.pdb
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\obj\Debug\ResolveAssemblyReference.cache
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\obj\Debug\NetTopologySuite.dll
+D:\Komponen\C#\SharpMap\SharpMap_Branch\src\Common\NetTopologySuite\obj\Debug\NetTopologySuite.pdb

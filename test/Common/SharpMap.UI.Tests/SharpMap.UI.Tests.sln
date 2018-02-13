@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpMap.UI.Tests", "SharpMap.UI.Tests.csproj", "{93708508-7B00-4A26-80DA-C73A7251BCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug MorphAn|Any CPU = Debug MorphAn|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Debug-Mono|Any CPU = Debug-Mono|Any CPU
+		DebugMorphAn|Any CPU = DebugMorphAn|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug MorphAn|Any CPU.ActiveCfg = Debug MorphAn|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug MorphAn|Any CPU.Build.0 = Debug MorphAn|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug-Mono|Any CPU.ActiveCfg = Debug-Mono|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Debug-Mono|Any CPU.Build.0 = Debug-Mono|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.DebugMorphAn|Any CPU.ActiveCfg = DebugMorphAn|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.DebugMorphAn|Any CPU.Build.0 = DebugMorphAn|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93708508-7B00-4A26-80DA-C73A7251BCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
